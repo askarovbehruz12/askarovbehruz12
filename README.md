@@ -1,7 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:3b82f6&height=200&section=header&text=Askarov%20Behruz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer%20%7C%20Python%20%26%20React&descAlignY=58" width="100%" />
-![Followers](https://img.shields.io/github/followers/askarovbehruz12?style=for-the-badge&logo=github&color=7c3aed)
-![Repos](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<h1 align="center">Askarov Behruz</h1>
+<p align="center"><b>Junior Developer | Python & React</b></p>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Hi!+I'm+Behruz+%F0%9F%91%8B;Junior+Developer+%F0%9F%92%BB;I+build+Telegram+bots+%F0%9F%A4%96;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
