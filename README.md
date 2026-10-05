@@ -1,4 +1,5 @@
-
+<h1 align="center">Askarov Behruz</h1>
+<p align="center"><b>Junior Developer | Python & React</b></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:3b82f6&height=200&section=header&text=Askarov%20Behruz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer%20%7C%20Python%20%26%20React&descAlignY=58" width="100%" />
 
