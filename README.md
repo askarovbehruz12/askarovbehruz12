@@ -32,8 +32,8 @@
   <h3>📊 GitHub Statistikam</h3>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=askarovbehruz12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=askarovbehruz12&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
   </p>
 
   <br />
