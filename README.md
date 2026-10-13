@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- TOP BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30,50&height=180&section=header&text=@USERNAME&fontSize=50&desc=FULL-STACK%20DEVELOPER%20|%20CREATIVE%20CODER&descSize=18&descAlignY=70&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30,50&height=180&section=header&text=@askarovbehruz12&fontSize=50&desc=FULL-STACK%20DEVELOPER%20|%20CREATIVE%20CODER&descSize=18&descAlignY=70&animation=fadeIn&fontColor=ffffff" width="100%" />
 
 </div>
 
@@ -35,11 +35,8 @@
       <h2>📂 RECENT PROJECTS</h2>
       
       <p>
-        <a href="https://github.com/USERNAME/Project_Alpha">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=Project_Alpha&theme=tokyonight&show_owner=true" width="48%" />
-        </a>
-        <a href="https://github.com/USERNAME/Awesome_App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=Awesome_App&theme=tokyonight&show_owner=true" width="48%" />
+        <a href="https://github.com/askarovbehruz12">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=askarovbehruz12&repo=askarovbehruz12&theme=tokyonight&show_owner=true" width="48%" />
         </a>
       </p>
 
@@ -50,13 +47,13 @@
       <h2>🌐 LET'S CONNECT</h2>
       
       <p>
-        <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="100%" />
+        <a href="https://t.me/YOUR_TELEGRAM_HANDLE" target="_blank">
+          <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" width="100%" />
         </a>
       </p>
       <p>
-        <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="100%" />
+        <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="100%" />
         </a>
       </p>
       <p>
@@ -65,18 +62,8 @@
         </a>
       </p>
       <p>
-        <a href="https://YOUR_PORTFOLIO_URL.com" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" width="100%" />
-        </a>
-      </p>
-      <p>
         <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100%" />
-        </a>
-      </p>
-      <p>
-        <a href="https://t.me/YOUR_TELEGRAM_HANDLE" target="_blank">
-          <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" width="100%" />
         </a>
       </p>
 
