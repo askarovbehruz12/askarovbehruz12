@@ -20,10 +20,9 @@ Men Python, JavaScript va React.js bilan ishlaydigan yosh dasturchiman. Loyihala
 </p>
 
 <p>
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/TELEGRAM-YOZING-e03c3c?style=for-the-badge&logo=telegram&logoColor=white&labelColor=c0392b" /></a>
-  <img src="https://komarev.com/ghpvc/?username=askarovbehruz12&style=for-the-badge&label=VIEWS&logo=eye&color=d4a017&labelColor=b8860b" />
-  <img src="https://img.shields.io/github/followers/askarovbehruz12?style=for-the-badge&logo=github&label=FOLLOW&color=1f6feb&labelColor=1a56c4" />
-  <img src="https://img.shields.io/github/stars/askarovbehruz12/loyha?style=for-the-badge&logo=github&label=STARS&color=5aa300&labelColor=478200" />
+  <a href="https://t.me/YOUR_TELEGRAM">
+    <img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/badges.svg" alt="badges" />
+  </a>
 </p>
 
 ---
