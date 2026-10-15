@@ -30,9 +30,7 @@ Men Python, JavaScript va React.js bilan ishlaydigan yosh dasturchiman. Loyihala
 
 <h2>🧰 Languages and Tools</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,py,react,html,css,git,github,vscode&theme=dark" alt="tools" />
-</p>
+<img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/tools.svg" alt="tools" />
 
 ---
 
