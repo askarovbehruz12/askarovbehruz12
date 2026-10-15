@@ -1,12 +1,6 @@
-<h1 align="center">🚀 Welcome to Behruz's GitHub Profile 👋</h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Askarov%20Behruz&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer%20%7C%20Creative%20Coder&descSize=20&descAlignY=58" alt="header" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/askarovbehruz12?style=for-the-badge&logo=github&color=0a84ff" alt="followers" />
-  <img src="https://komarev.com/ghpvc/?username=askarovbehruz12&style=for-the-badge&color=blueviolet" alt="views" />
+<p>
+    <img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/banner.svg" alt="banner" />
+  </a>
 </p>
 
 ---
