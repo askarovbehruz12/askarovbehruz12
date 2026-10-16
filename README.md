@@ -34,8 +34,8 @@ Men Python, JavaScript va React.js bilan ishlaydigan yosh dasturchiman. Loyihala
 <img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/heading-connect.svg" alt="Let's Connect" />
 
 <p align="center">
-  <a href="https://github.com/askarovbehruz12/loyha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=askarovbehruz12&repo=loyha&theme=tokyonight&hide_border=true" alt="loyha" />
+  <a href="https://github.com/askarovbehruz12?tab=repositories">
+    <img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/projects.svg" alt="Projects" width="100%" />
   </a>
 </p>
 
