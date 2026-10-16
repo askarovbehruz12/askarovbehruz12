@@ -43,6 +43,11 @@ Men Python, JavaScript va React.js bilan ishlaydigan yosh dasturchiman. Loyihala
 <img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/heading-projects.svg" alt="Recent Projects" />
 
 <p align="center">
-  <a href="https://askarovbehruz12.github.io/askarovbehruz12/"><img src="https://img.shields.io/badge/Portfolio-Saytim-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-Yozing-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://askarovbehruz12.github.io/askarovbehruz12/"><img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/connect-portfolio.svg" alt="Portfolio" /></a>
+  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/connect-telegram.svg" alt="Telegram" /></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/connect-instagram.svg" alt="Instagram" /></a>
+  <a href="mailto:your@email.com"><img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/connect-mail.svg" alt="Mail" /></a>
+  <a href="https://github.com/askarovbehruz12"><img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/connect-github.svg" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/connect-linkedin.svg" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@YOUR_YOUTUBE"><img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/connect-youtube.svg" alt="YouTube" /></a>
 </p>
