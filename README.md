@@ -3,7 +3,7 @@
   </a>
 </p>
 
----
+
 
 <img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/heading-tech.svg" alt="Tech Stack" />
 
