@@ -12,7 +12,13 @@
 <p>
 Men Python, JavaScript va React.js bilan ishlaydigan yosh dasturchiman. Loyihalarni noldan boshlab, rejalashtirishdan tortib to tayyor mahsulotgacha o'zim yaratishga harakat qilaman. Telegram botlar yaratish va web saytlar qilish menga yoqadi. Har kuni yangi narsa o'rganib, o'z dunyoqarashimni kod orqali kengaytirib boraman.
 </p>
-
+--
+<p>
+  <img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/heading-ai.svg" alt="AI tools"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/ai-tools-big.svg" alt="AI tools" width="100%" />
+</p>
 <p>
   <a href="https://t.me/YOUR_TELEGRAM">
     <img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/badges.svg" alt="badges" />
