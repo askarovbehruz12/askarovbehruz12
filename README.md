@@ -5,7 +5,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+<img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/heading-tech.svg" alt="Tech Stack" />
 
 <code>Junior Developer (Python / JavaScript / React)</code>
 
@@ -25,8 +25,7 @@ Men Python, JavaScript va React.js bilan ishlaydigan yosh dasturchiman. Loyihala
 <img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/tools.svg" alt="tools" />
 
 ---
-
-## 📌 Recent Projects
+<img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/heading-connect.svg" alt="Let's Connect" />
 
 <p align="center">
   <a href="https://github.com/askarovbehruz12/loyha">
@@ -35,8 +34,7 @@ Men Python, JavaScript va React.js bilan ishlaydigan yosh dasturchiman. Loyihala
 </p>
 
 ---
-
-## 🤝 Let's Connect
+<img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/heading-projects.svg" alt="Recent Projects" />
 
 <p align="center">
   <a href="https://askarovbehruz12.github.io/askarovbehruz12/"><img src="https://img.shields.io/badge/Portfolio-Saytim-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
