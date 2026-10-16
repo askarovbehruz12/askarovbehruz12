@@ -26,7 +26,7 @@
 ---
 <img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/heading-tools.svg" alt="Languages and Tools" />
 
-<img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/tools.svg" alt="tools" />
+<img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/web-stack.svg" alt="tools" />
 
 ---
 <img src="https://raw.githubusercontent.com/askarovbehruz12/askarovbehruz12/main/heading-connect.svg" alt="Let's Connect" />
